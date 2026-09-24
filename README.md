@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full-Stack Web Developer (MERN)<br>👯 Open to: Team projects, startups & open-source collaboration<br>🤝 Experienced in: Building scalable UIs & Firebase-powered backends<br>🌱 Currently advancing: System design & production-level apps<br>💬 Tech: MERN Stack, Flutter (Dart), Firebase, Firestore, REST APIs<br>⚡ Experience: 2+ years MERN learning & Frontend Developer Internship
+🔭 Full-Stack Web Developer (MERN)<br>👯 Open to: Team projects, startups & open-source collaboration<br>🤝 Experienced in: Building scalable UIs & Firebase-powered backends<br>🌱 Currently advancing: System design & production-level apps<br>💬 Tech: MERN Stack, REST APIs<br>⚡ Experience: 2+ years MERN learning & Frontend Developer Internship
 
 
 ## 🌐 Socials:
